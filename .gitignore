@@ -22,6 +22,7 @@ ExportedObj/
 *.jpg
 *.mp3
 *.wav
+*.meta
 *.ogg
 
 
